@@ -1,0 +1,27 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        Title="Classe / Metodo / Atributo" Height="400" Width="332.084">
+    <Grid Margin="0,0,2,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="17*"/>
+            <ColumnDefinition Width="49*"/>
+            <ColumnDefinition Width="219*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="label" Content="Nome" HorizontalAlignment="Left" Margin="27,33,0,0" VerticalAlignment="Top" FontFamily="Swis721 Hv BT" FontSize="18" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <Label x:Name="label1" Content="Idade" HorizontalAlignment="Left" Margin="28,89,0,0" VerticalAlignment="Top" FontSize="18" FontFamily="Swis721 Hv BT" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txtNome" HorizontalAlignment="Left" Height="23" Margin="43,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="156" Grid.Column="2" FontFamily="Swis721 BlkCn BT"/>
+        <TextBox x:Name="txtIdade" HorizontalAlignment="Left" Height="23" Margin="43,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="156" Grid.Column="2" FontFamily="Swis721 Hv BT"/>
+        <Button x:Name="btnSalvar" Content="Salvar" HorizontalAlignment="Left" Margin="27,191,0,0" VerticalAlignment="Top" Width="222" Click="btnSalvar_Click" FontFamily="Swis721 Hv BT" Grid.Column="1" FontSize="18" Grid.ColumnSpan="2"/>
+        <Label x:Name="label1_Copy" Content="Sexo" HorizontalAlignment="Left" Margin="28,140,0,0" VerticalAlignment="Top" FontSize="18" FontFamily="Swis721 Hv BT" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txtSexo" HorizontalAlignment="Left" Height="23" Margin="43,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="156" Grid.Column="2" FontFamily="Swis721 Hv BT" TextChanged="txtSexo_TextChanged"/>
+        <Button x:Name="btnMaiorMenor" Content="Maior / Menor" HorizontalAlignment="Left" Margin="28,226,0,0" VerticalAlignment="Top" Width="221" Click="btnMaiorMenor_Click" FontFamily="Swis721 Hv BT" Grid.Column="1" FontSize="18" Grid.ColumnSpan="2"/>
+        <Button x:Name="btnImparPar" Content="Impar / Par" HorizontalAlignment="Left" Margin="28,259,0,0" VerticalAlignment="Top" Width="221" Click="btnImparPar_Click" FontFamily="Swis721 Hv BT" Grid.Column="1" FontSize="18" Grid.ColumnSpan="2"/>
+        <Button x:Name="btnMasFem" Content="Masculino / Feminino" HorizontalAlignment="Left" Margin="27,292,0,0" VerticalAlignment="Top" Width="222" Click="btnMasFem_Click" FontFamily="Swis721 Hv BT" Grid.Column="1" FontSize="18" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>

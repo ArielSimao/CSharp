@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\Ariel\MensageBox\MensageBox\bin\Debug\MensageBox.exe.config
+C:\Users\aluno\Desktop\Ariel\MensageBox\MensageBox\obj\Debug\MensageBox.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Ariel\MensageBox\MensageBox\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\Desktop\Ariel\MensageBox\MensageBox\obj\Debug\App.g.cs
+C:\Users\aluno\Desktop\Ariel\MensageBox\MensageBox\obj\Debug\MensageBox_MarkupCompile.cache
+C:\Users\aluno\Desktop\Ariel\MensageBox\MensageBox\obj\Debug\MensageBox_MarkupCompile.lref
+C:\Users\aluno\Desktop\Ariel\MensageBox\MensageBox\bin\Debug\MensageBox.exe
+C:\Users\aluno\Desktop\Ariel\MensageBox\MensageBox\bin\Debug\MensageBox.pdb
+C:\Users\aluno\Desktop\Ariel\MensageBox\MensageBox\obj\Debug\MainWindow.baml
+C:\Users\aluno\Desktop\Ariel\MensageBox\MensageBox\obj\Debug\MensageBox.g.resources
+C:\Users\aluno\Desktop\Ariel\MensageBox\MensageBox\obj\Debug\MensageBox.Properties.Resources.resources
+C:\Users\aluno\Desktop\Ariel\MensageBox\MensageBox\obj\Debug\MensageBox.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\Ariel\MensageBox\MensageBox\obj\Debug\MensageBox.exe
+C:\Users\aluno\Desktop\Ariel\MensageBox\MensageBox\obj\Debug\MensageBox.pdb

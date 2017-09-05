@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5F87D914-4775-4CBA-A654-BAC2E4018BA6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WindowsFormsApplication1/Form1.Designer.cs">
+    <Files>
+      <File FileName="WindowsFormsApplication1/Form1.Designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WindowsFormsApplication1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

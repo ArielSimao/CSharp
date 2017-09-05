@@ -1,0 +1,21 @@
+﻿<Window x:Class="MensageBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MensageBox"
+        mc:Ignorable="d"
+        Title="Caixa de Mensagens" Height="332.427" Width="467.887">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="334*"/>
+            <ColumnDefinition Width="123*"/>
+            <ColumnDefinition Width="3"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="msgSimples" Content="Mensagem Simples" HorizontalAlignment="Left" Margin="27,29,0,0" VerticalAlignment="Top" Width="392" Height="43" Grid.ColumnSpan="2" Click="msgSimples_Click"/>
+        <Button x:Name="msgsTitulo" Content="Mensagem Com Titulo" HorizontalAlignment="Left" Margin="27,93,0,0" VerticalAlignment="Top" Width="392" Height="43" Grid.ColumnSpan="2" Click="msgsTitulo_Click"/>
+        <Button x:Name="msgTituloBotoes" Content="Mensagem Com Titulo e Botoes" HorizontalAlignment="Left" Margin="27,159,0,0" VerticalAlignment="Top" Width="392" Height="43" Grid.ColumnSpan="2" Click="msgTituloBotoes_Click"/>
+        <Button x:Name="msgTituloBotoesIcone" Content="Mensagem Com Titulo, Botões e Icone" HorizontalAlignment="Left" Margin="27,227,0,0" VerticalAlignment="Top" Width="392" Height="43" Grid.ColumnSpan="2" Click="msgTituloBotoesIcone_Click"/>
+
+    </Grid>
+</Window>
