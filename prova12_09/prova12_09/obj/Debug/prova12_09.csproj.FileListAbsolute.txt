@@ -1,0 +1,17 @@
+C:\Users\aluno\Desktop\prova12_09\prova12_09\bin\Debug\prova12_09.exe.config
+C:\Users\aluno\Desktop\prova12_09\prova12_09\bin\Debug\prova12_09.exe
+C:\Users\aluno\Desktop\prova12_09\prova12_09\bin\Debug\prova12_09.pdb
+C:\Users\aluno\Desktop\prova12_09\prova12_09\obj\Debug\prova12_09.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\prova12_09\prova12_09\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\Desktop\prova12_09\prova12_09\obj\Debug\App.g.cs
+C:\Users\aluno\Desktop\prova12_09\prova12_09\obj\Debug\prova12_09_MarkupCompile.cache
+C:\Users\aluno\Desktop\prova12_09\prova12_09\obj\Debug\prova12_09_MarkupCompile.lref
+C:\Users\aluno\Desktop\prova12_09\prova12_09\obj\Debug\MainWindow.baml
+C:\Users\aluno\Desktop\prova12_09\prova12_09\obj\Debug\prova12_09.g.resources
+C:\Users\aluno\Desktop\prova12_09\prova12_09\obj\Debug\prova12_09.Properties.Resources.resources
+C:\Users\aluno\Desktop\prova12_09\prova12_09\obj\Debug\prova12_09.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\prova12_09\prova12_09\obj\Debug\prova12_09.exe
+C:\Users\aluno\Desktop\prova12_09\prova12_09\obj\Debug\prova12_09.pdb
+F:\prova12_09\prova12_09\bin\Debug\prova12_09.exe.config
+F:\prova12_09\prova12_09\obj\Debug\prova12_09.exe
+F:\prova12_09\prova12_09\obj\Debug\prova12_09.pdb
